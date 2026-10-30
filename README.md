@@ -1,20 +1,42 @@
 # Hi, I'm Shyam Sitapara 👋
 
-🎓 BCA(AI) Student | Sutex Bank College of Computer Application & Science, Amroli, Surat.
+🎓 **BCA (AI) Student at SBCCAS Amroli, Surat**
 
-## 💻 Skills & Interests
-- Python Programming
+I'm a student interested in **Artificial Intelligence, Machine Learning, and Data Analytics**. I'm learning programming and building practical projects to improve my technical skills.
+
+## 🚀 Currently Learning
+
+- Python
+- Python OOP
+- Machine Learning
+- R Programming
+- Git & GitHub
+
+## 🎯 Interests
+
+- Artificial Intelligence
 - Machine Learning
 - Data Analytics
-- R Language
-- Version Control with Git & GitHub
+- Problem Solving
 
-## 🎯 My Goal
-To build practical projects, improve my programming skills, and explore the world of Artificial Intelligence and Data Science.
+## 🛠️ Tools & Technologies
 
-## 📚 Currently Working On
-- Learning Python OOP concepts
-- Exploring Machine Learning
-- Practising R Programming
-- Learning Git & GitHub workflows
+- Python
+- R
+- Git
+- GitHub
 
+## 📌 Goals
+
+- Improve my programming skills
+- Build practical AI and Machine Learning projects
+- Learn Data Analytics
+- Contribute to open-source projects
+
+## 🔗 Connect with Me
+
+- GitHub: [@shyamsitapara07-tech](https://github.com/shyamsitapara07-tech)
+
+---
+
+⭐ *Learning every day and building step by step.*
