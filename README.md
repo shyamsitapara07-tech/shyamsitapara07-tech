@@ -1,6 +1,6 @@
 # Hi, I'm Shyam Sitapara 👋
 
-🎓 **BCA (AI) Student at SBCCAS Amroli, Surat**
+🎓 **BCA (AI) Student at Sutex Bank College of Computer Application & Science, Amroli, Surat**
 
 I'm a student interested in **Artificial Intelligence, Machine Learning, and Data Analytics**. I'm learning programming and building practical projects to improve my technical skills.
 
